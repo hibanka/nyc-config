@@ -1,0 +1,18 @@
+{
+  "name": "@hibanka/nyc-config",
+  "version": "3.5.0",
+  "description": "Node.js shared config for Nyc (Istanbul)",
+  "repository": "https://github.com/Hibanka/nyc-config",
+  "main": ".nycrc.json",
+  "files": [
+    ".nycrc.json"
+  ],
+  "dependencies": {
+    "@istanbuljs/nyc-config-typescript": "^1.0.2",
+    "nyc": "^15.1.0",
+    "source-map-support": "~0.5.21"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
