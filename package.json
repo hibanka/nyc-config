@@ -1,6 +1,6 @@
 {
   "name": "@hibanka/nyc-config",
-  "version": "3.5.0",
+  "version": "4.0.0",
   "description": "Node.js shared config for Nyc (Istanbul)",
   "repository": "https://github.com/Hibanka/nyc-config",
   "main": ".nycrc.json",
